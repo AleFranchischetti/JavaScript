@@ -1,2 +1,2 @@
 # JavaScript
- Programas, desenvolvimentos e cursos em JavaScript (JS)
+ Programas, desenvolvimentos e cursos em JavaScript(JS)
